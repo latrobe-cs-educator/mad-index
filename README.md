@@ -26,7 +26,17 @@ Mainpage for CSE2MAD
 [Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
 [Lecture 11 - View Model Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture11_ViewModelDemo)  
 
-[Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
-
-## Lab Code Solutions
-[Lecture 1 - Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture1_DemoApp)  
+## Lab Code Solutions (they will be unlocked as the semester progresses)
+[Lab 2 WebBrowser](https://github.com/latrobe-cs-educator/CSE2MAD_Lab2_WebBrowser)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
+[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
