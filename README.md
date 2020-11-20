@@ -32,10 +32,10 @@ Mainpage for CSE2MAD
 [Lab 4A Broadcaster App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab4A_Broadcaster)  
 [Lab 4A Receiver App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab4A_Receiver)  
 [Lab 4B WorkManager App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab4B_WorkManager)  
+[Lab 5 Bluetooth App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab5_Bluetooth)  
+[Lab 6A Fragments App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6A_Fragments)  
+[Lab 6B SQLite App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6B_SQLite)  
 
-[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
-[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
-[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
 [Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
 [Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
 [Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
