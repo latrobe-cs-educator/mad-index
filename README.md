@@ -20,11 +20,13 @@ Mainpage for CSE2MAD
 [Lecture 7 - Google Maps example with Polylines, shapes, overlays & markers](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_MapsFragmentDemo)   
 [Lecture 7 - Soundpool Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SoundpoolDemo)   
 [Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)   
+[Lecture 9 - Layout and Debugging Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture9_Layoutdemo)  
+[Lecture 10 - Testing Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_TestingDemo)  
+[Lecture 10 - Fragment Communication Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FragmentExample)  
+[Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
 
-[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
-[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
-[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
-[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
+[Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
+[Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
 
 ## Lab Code Solutions
 [Lecture 1 - Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture1_DemoApp)  
