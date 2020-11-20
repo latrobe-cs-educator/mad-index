@@ -15,14 +15,16 @@ Mainpage for CSE2MAD
 [Lecture 6 - Firebase Example, with helper class & FirebaseUI Recycler view](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_FirebaseStore)  
 [Lecture 6 - Get phone location](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_LastLocationDemo)   
 [Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
+[Lecture 7 - Geofence Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_GeofenceDemo)   
+[Lecture 7 - Geocoding & reverse Geocoding Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_GeoCodeDemo)   
+[Lecture 7 - Google Maps example with Polylines, shapes, overlays & markers](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_MapsFragmentDemo)   
+[Lecture 7 - Soundpool Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SoundpoolDemo)   
+[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)   
 
-[Lecture 7 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
-[Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
-[Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
-[Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
-[Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
-
-
+[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
+[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
+[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
+[Lecture 7 - Speech Recognition Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)  
 
 ## Lab Code Solutions
 [Lecture 1 - Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture1_DemoApp)  
