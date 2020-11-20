@@ -37,7 +37,3 @@ Mainpage for CSE2MAD
 [Lab 6B SQLite App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6B_SQLite)  
 [Lab 7 MADMaps App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab7_MADMaps)  
 [Lab 9 Gesture App](https://github.com/latrobe-cs-educator/CSE2MAD_LAB9_Gestures)  
-
-[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
-[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
-[Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_MessagingApp)  
