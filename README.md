@@ -24,8 +24,8 @@ Mainpage for CSE2MAD
 [Lecture 10 - Testing Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_TestingDemo)  
 [Lecture 10 - Fragment Communication Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FragmentExample)  
 [Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
+[Lecture 11 - View Model Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture11_ViewModelDemo)  
 
-[Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
 [Lecture 10 - FirebaseAuthUI Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_FirebaseAuthUIDemo)  
 
 ## Lab Code Solutions
