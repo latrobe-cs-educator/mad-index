@@ -1,5 +1,6 @@
 # mad-index
 Mainpage for CSE2MAD
+Lecturers please Note: Do not change repository names as they are linked throughout the documentation. 
 
 ## Lecture Code Samples
 [Lecture 1 - Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture1_DemoApp)  
