@@ -1,5 +1,5 @@
 # mad-index
-Mainpage for CSE2MAD
+Mainpage for CSE2MAD   
 Lecturers please Note: Do not change repository names as they are linked throughout the documentation. 
 
 ## Lecture Code Samples
