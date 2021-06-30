@@ -1,10 +1,10 @@
 # mad-index
-Mainpage for CSE2MAD   
+Mainpage for CSE3MAD   
 Lecturers please Note: Do not change repository names as they are linked throughout the documentation. 
 
 ## Lecture Code Samples
 [Lecture 1 - Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture1_DemoApp)  
-[Lecture 3 - Listeners and Intents Demo](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture3_Event_Listener_Demo)  
+[Lecture 3 - Buttons, Listeners and Intents Demo *](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture3_Event_Listener_Demo)  
 [Lecture 4 - Activity Lifecycle Demo](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_ActivityLifeCycleDemo)  
 [Lecture 4 - Handler & Thread Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_HandlerDemo)  
 [Lecture 4 - Broadcast, Reciever & Context based intent filter Demo](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_SendBroadcast)  
