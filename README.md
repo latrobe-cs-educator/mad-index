@@ -29,7 +29,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 
 ## Lab Code Solutions (they will be unlocked as the semester progresses)
 [Lab 1 FirstApp Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab1_FirstApp)   
-[Lab 2 WebBrowser Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab3_Web-Browser)   
+[Lab 2 WebBrowser Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab2_Web-Browser)
 [Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_Messaging-App)     
 [Lab 3 SMS Messaging App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab3_Messaging-App-2021)   
 [Lab 4A Broadcaster App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab4A_Broadcaster)   
