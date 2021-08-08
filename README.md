@@ -3,9 +3,9 @@ Mainpage for CSE3MAD
 Lecturers please Note: Do not change repository names as they are linked throughout the documentation. 
 
 ## Lecture Code Samples
-[Lecture 1 - Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture1_DemoApp)
-[Lecture 3 - Buttons, Listeners and Intents Demo *](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture3_Event_Listener_Demo)  
-[Lecture 4 - Activity Lifecycle Demo *](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture_4_ActivityLifeCycleDemo)  
+[Lecture 1 - Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture1_DemoApp)   
+[Lecture 3 - Buttons, Listeners and Intents Demo Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture3_Event_Listener_Demo)  
+[Lecture 4 - Activity Lifecycle Demo Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture_4_ActivityLifeCycleDemo)  
 [Lecture 4 - Handler & Thread Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_HandlerDemo)  
 [Lecture 4 - Broadcast, Reciever & Context based intent filter Demo](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_SendBroadcast)  
 [Lecture 5 - Foreground Service Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_ForegroundServiceDemo)  
@@ -28,7 +28,8 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 11 - View Model Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture11_ViewModelDemo)  
 
 ## Lab Code Solutions (they will be unlocked as the semester progresses)
-[Lab 2 WebBrowser](https://github.com/latrobe-cs-educator/CSE2MAD_Lab2_Web-Browser)  
+[Lab 1 FirstApp Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab1_FirstApp)
+[Lab 2 WebBrowser Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lab2_Web-Browser)  
 [Lab 3 SMS Messaging App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab3_Messaging-App)  
 [Lab 4A Broadcaster App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab4A_Broadcaster)  
 [Lab 4A Receiver App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab4A_Receiver)  
