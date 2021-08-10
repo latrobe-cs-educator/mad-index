@@ -43,9 +43,16 @@ Lecturers please Note: Do not change repository names as they are linked through
 
 ## Videos
 [How to Clone Lab Solution/Samples Updated Aug21](https://echo360.net.au/media/bbb86979-422b-4cd4-9b55-f4b4294e35df/public)     
+[Intro to GitHub Updated Aug21](https://echo360.net.au/media/f96b6d73-0f56-415b-bd2e-79201607b97f/public)   
 [Android Virtual Device Setup Updated Aug21](https://echo360.net.au/media/576603af-99bd-411f-8a57-c477b9cb8ee7/public)   
+[Introduction to Android Studio Updated Aug21](https://echo360.net.au/media/9ed56bb6-9865-44ad-ae4b-461e52982b46/public)
 [Android Activity Lifecycle Updated Aug21](https://echo360.net.au/media/ed5322b3-4260-4484-9cc5-1e41d3d6dcf4/public)    
 [Anonymous Inner Classes Updated Aug21](https://echo360.net.au/media/15c8971b-5afe-40ca-95a7-f2d51ee4e99d/public)        
 [OnClickListeners & Buttons Updated Aug21](https://echo360.net.au/media/071a7244-b5b3-4910-b667-5489ada07e8b/public)   
+[Intents Updated Aug21](https://echo360.net.au/media/8a14bbdf-83bb-4d97-a51f-fcbbf50cfa82/public)
+[Prototypes and Wireframes Updated Aug21](https://echo360.net.au/media/c5aeadff-241e-4f1a-a40d-be2190503042/public)
+[Intro to Agile 1](https://echo360.net.au/media/15c8971b-5afe-40ca-95a7-f2d51ee4e99d/public)
+[Agile Part 2](https://echo360.net.au/media/ed06f30e-c9c0-498e-8ba3-b88c46c96c91/public)
+
 
 
