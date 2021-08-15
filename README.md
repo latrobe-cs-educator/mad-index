@@ -8,8 +8,8 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 4 - Activity Lifecycle Demo Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture_4_ActivityLifeCycleDemo)  
 [Lecture 4 - Handler & Thread Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture_4_HandlerDemo)  
 [Lecture 4 - Broadcast, Reciever & Context based intent filter Demo Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_SendBroadcast)  
-[Lecture 5 - Foreground Service Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_ForegroundServiceDemo)  
-[Lecture 5 - Work Manager Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_WorkManagerDemo)  
+[Lecture 5 - Foreground Service Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_ForegroundServiceDemo)  
+[Lecture 5 - Work Manager Demo App ](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_WorkManagerDemo)  
 [Lecture 5 - Bluetooth Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_BluetoothDemo)  
 [Lecture 6 - Shared Preferences Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SharedPrefExample)  
 [Lecture 6 - SQLite Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SQLiteDemo)  
@@ -53,6 +53,8 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Prototypes and Wireframes Updated Aug21](https://echo360.net.au/media/c5aeadff-241e-4f1a-a40d-be2190503042/public)   
 [Intro to Agile 1](https://echo360.net.au/media/15c8971b-5afe-40ca-95a7-f2d51ee4e99d/public)   
 [Agile Part 2](https://echo360.net.au/media/ed06f30e-c9c0-498e-8ba3-b88c46c96c91/public)   
+[Android Services Updated Aug21](https://echo360.net.au/media/5602419c-c13c-4a79-9c80-44120861d7fe/public)
+[Workmanager API Updated Aug21](https://echo360.net.au/media/78cb91d7-228e-4a82-8f34-9f70f48fae9a/public)
 
 
 
