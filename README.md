@@ -35,7 +35,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lab 4A Broadcaster App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab4A_Broadcaster)   
 [Lab 4A Receiver App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab4A_Receiver)   
 [Lab 4B WorkManager App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab4B_WorkManager)  
-[Lab 5 Bluetooth App Updated Aug21](https://github.com/latrobe-cs-educator/Lab5Bluetooth2)
+[Lab 5 Bluetooth App Updated Aug21](https://github.com/latrobe-cs-educator/Lab5Bluetooth2)   
 [Lab 6A Fragments App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6A_Fragments)  
 [Lab 6B SQLite App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6B_SQLite)  
 [Lab 7 MADMaps App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab7_MADMaps)  
@@ -53,8 +53,8 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Prototypes and Wireframes Updated Aug21](https://echo360.net.au/media/c5aeadff-241e-4f1a-a40d-be2190503042/public)   
 [Intro to Agile 1](https://echo360.net.au/media/15c8971b-5afe-40ca-95a7-f2d51ee4e99d/public)   
 [Agile Part 2](https://echo360.net.au/media/ed06f30e-c9c0-498e-8ba3-b88c46c96c91/public)   
-[Android Services Updated Aug21](https://echo360.net.au/media/5602419c-c13c-4a79-9c80-44120861d7fe/public)
-[Workmanager API Updated Aug21](https://echo360.net.au/media/78cb91d7-228e-4a82-8f34-9f70f48fae9a/public)
+[Android Services Updated Aug21](https://echo360.net.au/media/5602419c-c13c-4a79-9c80-44120861d7fe/public)   
+[Workmanager API Updated Aug21](https://echo360.net.au/media/78cb91d7-228e-4a82-8f34-9f70f48fae9a/public)   
 
 
 
