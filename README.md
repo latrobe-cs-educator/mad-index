@@ -10,7 +10,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 4 - Broadcast, Reciever & Context based intent filter Demo Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture_4_SendBroadcast)  
 [Lecture 5 - Foreground Service Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_ForegroundServiceDemo)  
 [Lecture 5 - Work Manager Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_WorkManagerDemo)  
-[Lecture 5 - Bluetooth Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_BluetoothDemo)  
+[Lecture 5 - Bluetooth Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_BluetoothDemo)  
 [Lecture 6 - Shared Preferences Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SharedPrefExample)  
 [Lecture 6 - SQLite Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SQLiteDemo)  
 [Lecture 6 - Firebase Example, with helper class & FirebaseUI Recycler view](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_FirebaseStore)  
