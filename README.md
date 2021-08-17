@@ -13,7 +13,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 5 - Bluetooth Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture5_BluetoothDemo)  
 [Lecture 6 - Shared Preferences Demo App Updated Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SharedPrefExample)  
 [Lecture 6 - SQLite Demo App Update Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SQLiteDemo)  
-[Lecture 6 - Firebase Example, with helper class & FirebaseUI Recycler view Update Aug21 *NOTE will not work unless Firestore Rules are updated](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_FirebaseStore)  
+[Lecture 6 - Firebase Example, with helper class & FirebaseUI Recycler view Update Aug21 *NOTE will not work unless you connect to your own Firebase app, see video](https://github.com/latrobe-cs-educator/FirebaseDemo) 
 [Lecture 6 - Get phone location](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_LastLocationDemo)   
 [Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
 [Lecture 7 - Geofence Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_GeofenceDemo)   
