@@ -15,7 +15,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 6 - SQLite Demo App Update Aug21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_SQLiteDemo)  
 [Lecture 6 - Firebase Example, with helper class & FirebaseUI Recycler view Update Aug21 *NOTE will not work unless you connect to your own Firebase app, see video below](https://github.com/latrobe-cs-educator/FirebaseDemo)    
 [Lecture 6 - Get phone location with original permissions](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_LastLocationDemo)   
-[Lecture 6 - Get phone location with new permissions update Aug21](https://github.com/latrobe-cs-educator/GetLocationApp) 
+[Lecture 6 - Get phone location with new permissions update Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_GetLocationApp   
 [Lecture 6 - Simple Google Map Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture6_GoogleMapsDemo)   
 [Lecture 7 - Geofence Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_GeofenceDemo)   
 [Lecture 7 - Geocoding & reverse Geocoding Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_GeoCodeDemo)   
@@ -37,8 +37,8 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lab 4A Receiver App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab4A_Receiver)   
 [Lab 4B WorkManager App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab4B_WorkManager)  
 [Lab 5 Bluetooth App Updated Aug21](https://github.com/latrobe-cs-educator/Lab5Bluetooth2)   
-[Lab 6A Fragments App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6A_Fragments)  
-[Lab 6B SQLite App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab6B_SQLite)  
+[Lab 6A Fragments App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6A_Fragments)   
+[Lab 6B SQLite App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6B_SQLite)    
 [Lab 7 MADMaps App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab7_MADMaps)  
 [Lab 9 Gesture App](https://github.com/latrobe-cs-educator/CSE2MAD_LAB9_Gestures)  
 
