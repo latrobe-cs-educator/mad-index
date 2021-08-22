@@ -55,6 +55,9 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Agile Part 2](https://echo360.net.au/media/ed06f30e-c9c0-498e-8ba3-b88c46c96c91/public)   
 [Android Services Updated Aug21](https://echo360.net.au/media/5602419c-c13c-4a79-9c80-44120861d7fe/public)   
 [Workmanager API Updated Aug21](https://echo360.net.au/media/78cb91d7-228e-4a82-8f34-9f70f48fae9a/public)   
+[Broadcasts, Broadcast receivers and Intent Filters Aug21](https://echo360.net.au/media/76b2be1c-bb1a-4260-9735-ac684d179459/public)   
+[Firebase Firestore Demo Aug21](https://echo360.net.au/media/19e8f502-68bb-4a54-a1d8-3ed2dcf36bb9/public)   
+[Threads & Handlers Aug21](https://echo360.net.au/media/737339c1-86e7-4598-ad91-a74f4f5604f1/public)     
 
 
 
