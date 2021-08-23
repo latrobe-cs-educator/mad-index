@@ -57,8 +57,11 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Android Services Updated Aug21](https://echo360.net.au/media/5602419c-c13c-4a79-9c80-44120861d7fe/public)   
 [Workmanager API Updated Aug21](https://echo360.net.au/media/78cb91d7-228e-4a82-8f34-9f70f48fae9a/public)   
 [Broadcasts, Broadcast receivers and Intent Filters Aug21](https://echo360.net.au/media/76b2be1c-bb1a-4260-9735-ac684d179459/public)   
+[Threads & Handlers Aug21](https://echo360.net.au/media/737339c1-86e7-4598-ad91-a74f4f5604f1/public)   
 [Firebase Firestore Demo Aug21](https://echo360.net.au/media/19e8f502-68bb-4a54-a1d8-3ed2dcf36bb9/public)   
-[Threads & Handlers Aug21](https://echo360.net.au/media/737339c1-86e7-4598-ad91-a74f4f5604f1/public)     
+[Get Last location Demo Aug21](https://echo360.net.au/media/d619616d-1400-42c0-8ad2-38a96ec8427f/public)   
+[Getting started with Google maps Aug21](https://echo360.net.au/media/a5a26f25-5af6-423a-ac3a-7b195b7ad205/public)   
+   
 
 
 
