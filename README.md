@@ -39,7 +39,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lab 5 Bluetooth App Updated Aug21](https://github.com/latrobe-cs-educator/Lab5Bluetooth2)   
 [Lab 6A Fragments App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6A_Fragments)   
 [Lab 6B SQLite App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6B_SQLite)    
-[Lab 7 MADMaps App](https://github.com/latrobe-cs-educator/CSE2MAD_Lab7_MADMaps)  
+[Lab 7 MADMaps App Updated Sep21](https://github.com/mefitzgerald/Lab7_GoogleMap)     
 [Lab 9 Gesture App](https://github.com/latrobe-cs-educator/CSE2MAD_LAB9_Gestures)  
 
 ## Videos
@@ -61,7 +61,3 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Firebase Firestore Demo Aug21](https://echo360.net.au/media/19e8f502-68bb-4a54-a1d8-3ed2dcf36bb9/public)   
 [Get Last location Demo Aug21](https://echo360.net.au/media/d619616d-1400-42c0-8ad2-38a96ec8427f/public)   
 [Getting started with Google maps Aug21](https://echo360.net.au/media/a5a26f25-5af6-423a-ac3a-7b195b7ad205/public)   
-   
-
-
-
