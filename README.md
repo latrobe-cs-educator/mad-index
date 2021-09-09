@@ -39,8 +39,10 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lab 5 Bluetooth App Updated Aug21](https://github.com/latrobe-cs-educator/Lab5Bluetooth2)   
 [Lab 6A Fragments App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6A_Fragments)   
 [Lab 6B SQLite App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6B_SQLite)    
-[Lab 7 MADMaps App Updated Sep21](https://github.com/mefitzgerald/Lab7_GoogleMap)     
+[Lab 7 MADMaps App Updated Sep21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab7_MapTrace)       
 [Lab 9 Gesture App](https://github.com/latrobe-cs-educator/CSE2MAD_LAB9_Gestures)  
+[Lab 11 Camera App Android Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_lab11partA_android_cameraapp)     
+[Lab 11 Camera App Flutter Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_lab11partB_flutter_cameraapp)     
 
 ## Videos
 [How to Clone Lab Solution/Samples Updated Aug21](https://echo360.net.au/media/bbb86979-422b-4cd4-9b55-f4b4294e35df/public)     
