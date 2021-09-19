@@ -40,7 +40,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lab 6A Fragments App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6A_Fragments)   
 [Lab 6B SQLite App Updated Aug21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab6B_SQLite)    
 [Lab 7 MADMaps App Updated Sep21](https://github.com/latrobe-cs-educator/CSE3MAD_Lab7_MapTrace)       
-[Lab 9 Gesture App](https://github.com/latrobe-cs-educator/CSE2MAD_LAB9_Gestures)  
+[Lab 9 Gesture App Updated Sep21](https://github.com/latrobe-cs-educator/CSE3MAD_LAB9_Gestures)  
 [Lab 11 Camera App Android Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_lab11partA_android_cameraapp)     
 [Lab 11 Camera App Flutter Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_lab11partB_flutter_cameraapp)     
 
@@ -63,3 +63,9 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Firebase Firestore Demo Aug21](https://echo360.net.au/media/19e8f502-68bb-4a54-a1d8-3ed2dcf36bb9/public)   
 [Get Last location Demo Aug21](https://echo360.net.au/media/d619616d-1400-42c0-8ad2-38a96ec8427f/public)   
 [Getting started with Google maps Aug21](https://echo360.net.au/media/a5a26f25-5af6-423a-ac3a-7b195b7ad205/public)   
+[Geofence Example Sep21](https://echo360.net.au/media/a8787f6c-57cc-4a4a-a783-3fec31c998b5/public)      
+[Geocode Example Sep21](https://echo360.net.au/media/afeef6de-3b5c-41ac-a47e-af44d7960fcf/public)    
+[Soundpool Example Sep21](https://echo360.net.au/media/a2cf8988-6d00-4fce-aec7-13bf1466c684/public)   
+[SQLite Example Sep21](https://echo360.net.au/media/daf4fac1-d36f-4ded-b129-5f043a65ed1f/public)   
+[TextToSpeech/SpeechToText Sep21](https://echo360.net.au/media/531e1bd0-801c-4ebf-a06a-d863e9dc6f18/public)   
+[AndroidStudio Github for teams Sep21](https://echo360.net.au/media/c1d347f7-9cbd-4135-87ef-ae6c8fb7f8e3/public)   
