@@ -24,7 +24,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 7 - Speech Recognition Demo App Updated Sep21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)   
 [Lecture 9 - Alternate Layout Demo Updated Sept21](https://github.com/latrobe-cs-educator/Lecture9_CSE3MAD_Alternate_Layouts)   
 [Lecture 9 & 10 - FirebaseAuthUI Demo App Updated Sept21](https://github.com/latrobe-cs-educator/Lecture9_10_CSE3MAD_FirebaseUI)   
-[Lecture 10 - Testing Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_TestingDemo)  
+[Lecture 10 - Testing Demo App Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture10_TestingDemo)   
 [Lecture 10 - Fragment Communication Demo App Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture10_FragmentExample)    
 [Lecture 11 - View Model Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture11_ViewModelDemo)  
 
@@ -70,4 +70,5 @@ Lecturers please Note: Do not change repository names as they are linked through
 [TextToSpeech/SpeechToText Sep21](https://echo360.net.au/media/531e1bd0-801c-4ebf-a06a-d863e9dc6f18/public)   
 [AndroidStudio Github for teams Sep21](https://echo360.net.au/media/c1d347f7-9cbd-4135-87ef-ae6c8fb7f8e3/public)   
 [FirebaseUI Authentication Sep21](https://echo360.net.au/media/ff82bdc4-a679-49b7-b5c9-cf2e84d56a02/public)      
-[Alternate Layouts Sep21](https://echo360.net.au/media/a6dfff4a-87f1-45f1-b3c6-20b7c5524c69/public)   
+[Alternate Layouts Sep21](https://echo360.net.au/media/a6dfff4a-87f1-45f1-b3c6-20b7c5524c69/public)     
+[Fragment Communication Sep21](https://echo360.net.au/media/6e0353e2-3a56-4042-beef-68ec372b2b51/public)   
