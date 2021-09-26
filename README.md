@@ -23,7 +23,7 @@ Lecturers please Note: Do not change repository names as they are linked through
 [Lecture 7 - Soundpool Demo App Updated Sep21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SoundpoolDemo)   
 [Lecture 7 - Speech Recognition Demo App Updated Sep21](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture7_SpeechRecognition)   
 [Lecture 9 - Alternate Layout Demo Updated Sept21](https://github.com/latrobe-cs-educator/Lecture9_CSE3MAD_Alternate_Layouts)   
-[Lecture 9 & 10 - FirebaseAuthUI Demo App Updated Sept21](https://github.com/latrobe-cs-educator/Lecture9_10_CSE3MAD_FirebaseUI  )
+[Lecture 9 & 10 - FirebaseAuthUI Demo App Updated Sept21](https://github.com/latrobe-cs-educator/Lecture9_10_CSE3MAD_FirebaseUI)   
 [Lecture 10 - Testing Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture10_TestingDemo)  
 [Lecture 10 - Fragment Communication Demo App Updated Sept21](https://github.com/latrobe-cs-educator/CSE3MAD_Lecture10_FragmentExample)    
 [Lecture 11 - View Model Demo App](https://github.com/latrobe-cs-educator/CSE2MAD_Lecture11_ViewModelDemo)  
